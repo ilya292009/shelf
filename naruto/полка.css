@@ -1,0 +1,27 @@
+img{
+	width:100%;
+}
+div{
+	display: inline-block;
+	width: 27%;
+	vertical-align: top;
+	background-color: #FFF851;
+	border:4px solid black;
+	text-align:center;
+	border-color: red;
+	border-width: 2px;
+	border-style: dashed;
+	border-collapse: collapse;
+	padding: 10px;
+	margin: 0px 30px;
+}
+body{
+	background-image: url("фон.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
